@@ -1,4 +1,4 @@
-cat hello.xml
+"hello.xml merged"
 <<<<<<< HEAD
 Data added from master branch
 modified file from master branch
